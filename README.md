@@ -10,3 +10,7 @@ First git clone this repo.
 Then build using:
 
  `docker built -t aws-cli . `
+
+For testing:
+
+ `docker run aws-cli help`
