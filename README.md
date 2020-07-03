@@ -1,8 +1,12 @@
 
-Simple aws-cli container.
+## Simple aws-cli container
 
-You can build using:
- git clone this repo. 
+First git clone this repo.
+
+ `git clone https://github.com/SaravanaStorageNetwork/aws-cli-container`
+ 
+ `cd aws-cli-container`
 
 Then build using:
- docker built -t aws-cli .
+
+ `docker built -t aws-cli . `
